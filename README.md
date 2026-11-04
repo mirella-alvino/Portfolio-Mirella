@@ -1,19 +1,25 @@
-# Portfólio
+# Mirella Alvino · Portfólio
 
-Site de portfólio profissional em uma única página (HTML + CSS, sem instalar nada).
+Analista de dados e cientista social, licenciada em Ciências Sociais pela UNIFESP. Trabalho com inteligência de negócios, monitoramento e avaliação de políticas públicas, com foco em impacto social e socioeconômico.
 
-## Como editar
+**Portfólio:** https://mialvino3-a11y.github.io/Portfolio-Mirella/ (versão em inglês: [en.html](https://mialvino3-a11y.github.io/Portfolio-Mirella/en.html))
 
-- **Textos:** abra `index.html` e troque os textos de exemplo ("Seu Nome", "Nome do projeto" etc.).
-- **Foto:** crie uma pasta `img/`, coloque sua foto (ex.: `img/foto.jpg`) e troque o
-  `<div class="foto-placeholder">SN</div>` por `<img src="img/foto.jpg" alt="Seu Nome">`.
-- **Imagens dos projetos:** troque o texto dentro de `<div class="projeto-img ...">` por
-  `<img src="img/projeto1.jpg" alt="Descrição">`.
-- **Mais projetos:** copie um bloco `<article class="projeto">` inteiro e cole abaixo.
-- **Cores:** mude as variáveis no topo de `style.css` (`--destaque` é a cor principal).
+## Destaques
 
-## Publicar grátis no GitHub Pages
+- **Prompts bem estruturados:** prompt de uma ferramenta baseada em LLM para padronizar relatórios técnicos, reconhecida com Menção Honrosa em processo interno de inovação da FGV Projetos.
+- **Experimentação com LLM:** análise dos Planos Municipais pela Primeira Infância com mineração de texto e categorização temática com LLM, validada por revisão humana (em desenvolvimento).
+- **Automação:** script em JavaScript (PptxGenJS) que gera apresentações institucionais, reduzindo o tempo de produção de cerca de 3 horas para cerca de 10 minutos.
+- **Ferramentas e dashboards:** painéis em Power BI e Streamlit para monitoramento de programas públicos e um simulador logístico de armazém, com automação em n8n e agente de IA para alertas de capacidade (em implementação).
 
-1. No GitHub, abra o repositório → **Settings** → **Pages**.
-2. Em *Source*, escolha **Deploy from a branch**, selecione a branch principal e a pasta `/ (root)`.
-3. Salve. Em alguns minutos o site fica disponível em `https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/`.
+## Ferramentas
+
+Python · SQL · JavaScript · Power BI · Streamlit · LLM · engenharia de prompt · n8n (em implementação)
+
+## Sobre os dados
+
+Nenhum dado de cliente é exibido. As telas dos projetos aparecem com os números e as informações sensíveis borrados.
+
+## Contato
+
+- E-mail: mirella.alvino1@outlook.com
+- LinkedIn: https://www.linkedin.com/in/mirellalvinobastos/
