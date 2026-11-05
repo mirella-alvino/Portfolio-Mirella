@@ -2,7 +2,7 @@
 
 Analista de dados e cientista social, licenciada em Ciências Sociais pela UNIFESP. Trabalho com inteligência de negócios, monitoramento e avaliação de políticas públicas, com foco em impacto social e socioeconômico.
 
-**Portfólio:** https://mialvino3-a11y.github.io/Portfolio-Mirella/ (versão em inglês: [en.html](https://mialvino3-a11y.github.io/Portfolio-Mirella/en.html))
+**Portfólio:** https://mirella-alvino.github.io/Portfolio-Mirella/ (versão em inglês: [en.html](https://mirella-alvino.github.io/Portfolio-Mirella/en.html))
 
 ## Destaques
 
